@@ -1,4 +1,4 @@
-<div align-items=center>
+<div align=center>
 <img src="https://y.yarn.co/cd93dd19-be25-4199-8c44-3fb1cc3649a4_text.gif">
 </div>
 
