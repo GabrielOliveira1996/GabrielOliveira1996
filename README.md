@@ -1,10 +1,4 @@
 <div align=center>
-<img src="https://y.yarn.co/cd93dd19-be25-4199-8c44-3fb1cc3649a4_text.gif">
-</div>
-
-<br>
-
-<div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="64" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="64" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="64" width="64"/>
