@@ -1,11 +1,3 @@
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="64" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="64" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="64" width="64"/>
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://github.com/GabrielOliver96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielOliveira1996&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
